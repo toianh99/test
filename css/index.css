@@ -1,0 +1,105 @@
+p{
+    margin-bottom: 0;
+}
+li{
+    list-style-type: none;
+}
+.header-top-right{
+    float: right;
+}
+.header-top-menu{
+    float: left;
+    margin-right: 3rem;
+}
+.header-top-bar{ 
+    padding: 1rem;
+    background-color: #062f3c ;
+    color: white;
+}
+.header-top-bar ul li a{
+    color: white;
+}
+body{
+    font-size: 14px;
+}
+.header-logo{
+    padding-top:1rem;
+}
+.header-search{
+    float: left;
+    width: 50rem;
+    padding-top: 1rem;
+    height: 4rem;
+}
+
+.search-chart-list{
+    float: left;
+    height: 5rem;
+}
+.search-menu{
+    float: left;
+  padding-top: 1rem;
+}
+.header-search input{
+    width: 90%;
+    float: left;
+}
+.header-buttom-group{float: left;}
+.header-bottom{
+    
+    background-color:#1681b1;
+}
+.search-menu select{
+    height:27px;
+}
+.header-buttom-group{ 
+    padding-top: 1rem;
+}
+.main-menu-area{
+    display: block;
+}
+.main-menu ul li{
+    margin: 2rem;
+}
+.main-menu ul li a{
+    color: white;
+    padding: 2rem;
+}
+.main-menu-area{
+   border-top: orangered solid 1px;
+    background-color:#1681b1;
+}
+.main-menu ul li a:hover{
+    text-decoration: none;
+    background-color: #234099;
+}
+ul{
+    margin-bottom: 0;
+}
+.sigle-support-icon{
+    float: left;
+    padding-right: 2rem;
+}
+.sigle-support-icon i{
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    line-height: 5rem;
+    background-color: orange;
+    color: white;
+    font-size: 2.5rem;
+}
+.sigle-support-content{
+}
+.single-support{
+    padding-top: 2rem;
+}
+.sidebar--item{
+    padding: 1rem 2rem;
+}
+.sidebar--list{
+    border-right: black solid 1px;
+}
+.section-one{
+    margin-top: 2rem;
+}
